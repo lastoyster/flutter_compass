@@ -1,7 +1,7 @@
 import 'dart:math' as math;
 import 'package:flutter_compass/neu_circle.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_compass/flutter_compass.dart';
+import 'package:flutter_compass_app/flutter_compass.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 void main() => runApp(MyApp());
